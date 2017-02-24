@@ -41,9 +41,22 @@ pod 'MachineLearningKit', '0.1.2'
 ## Development Schedule
 
 ### Week of Feb 20th
+
+* ✅ KMeans Clustering (Does not include KMeans++)
+* ✅ Basic ANN Architecture [`develop` branch]
+* ✅ Cocoapods 
+* ✅ Documentation on Polynomial, and LassoRegression 
+* ✅ Code Refactoring  [`develop` branch]
+* ❌ Ridge Regression Documentation (Coming Soon) 
+* ❌ KMeans Documentation (Coming Soon) 
+* ❌ Complete ANN (BackPropagation, Time Complexity Improvements) [Pushed to next week] 
+
+----------------------------------------------
+
+### Week of Feb 27th
 |M|T|W|Th|F|
 |---|---|---|---|---|
-|K-Means Clustering (Prototype Currently in `develop` branch)|K-Means Clustering|K-Means Clustering (Now available 🎉 ,wiki coming soon)| Neural Network Basic Architecture [`develop` branch] |Neural Network (Perceptron & Adaline)  [`develop` branch] |
+|Neural Network Documentation & BackPropagation Algorithm|BackPropagation Algorithm & K-Means++|TBD|TBD|TBD|
 
 
 # License
