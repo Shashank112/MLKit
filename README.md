@@ -1,3 +1,5 @@
+![](https://github.com/Somnibyte/MLKit/blob/master/MLKitLogo.png?raw=true)
+
 # [WIP] MLKit (a.k.a Machine Learning Kit) 🤖
 MLKit is a simple machine learning framework written in Swift. Currently MLKit features machine learning algorithms that deal with the topic of regression, but the framework will expand over time with topics such as classification, clustering, recommender systems, and deep learning. The vision and goal of this framework is to provide developers with a toolkit to create products that can learn from data. MLKit is a side project of mine in order to make it easier for developers to implement machine learning algorithms on the go, and to familiarlize myself with machine learning concepts.
 
