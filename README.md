@@ -45,9 +45,9 @@ pod 'MachineLearningKit', '0.1.2'
 ### Week of Feb 20th
 
 * ✅ KMeans Clustering (Does not include KMeans++)
-* ✅ Basic ANN Architecture [`develop` branch]
+* ✅ Single Layer Perceptron & Adaline ANN Architecture [`develop` branch]
 * ✅ Cocoapods 
-* ✅ Documentation on Polynomial, and LassoRegression 
+* ✅ Documentation on Polynomial, and Lasso Regression 
 * ✅ Code Refactoring  [`develop` branch]
 * ❌ Ridge Regression Documentation (Coming Soon) 
 * ❌ KMeans Documentation (Coming Soon) 
